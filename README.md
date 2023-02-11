@@ -1,0 +1,1 @@
+This is a beach bar backend application made with Django REST.
